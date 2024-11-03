@@ -1,3 +1,11 @@
+👤 **Name:** Pushkar Kumar  
+🏢 **Company:** CodeTech IT Solutions  
+🆔 **ID:** CT08DS9647  
+🖥️ **Domain:** C Programming  
+📅 **Duration:** Oct - Nov 2024  
+👨‍🏫 **Mentor:**   
+
+
 # Temperature Converter
 
 ## Overview
